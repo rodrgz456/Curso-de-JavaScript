@@ -1,11 +1,11 @@
-// var
+// var (no recomendado)
 var helloWorld = "Hola Mundo!"
 console.log(helloWorld)
 
-// let
+// let (recomendado)
 let helloWorld2 = "Hola JavaScript"
 console.log(helloWorld2)
 
-// const
+// const (variable constante)
 const constante = "Hola"
 console.log(constante)
