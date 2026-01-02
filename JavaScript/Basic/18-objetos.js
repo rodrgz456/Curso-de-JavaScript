@@ -80,3 +80,10 @@ function Person(nombre, edad) { //Deberia de ser una clase
 
 let persona4 = new Person("Roberto", 19)
 console.log(persona4)
+
+let ejemplo1 = 1;
+function saluda() {
+    console.log("Hola Mundo!")
+}
+
+saluda()
